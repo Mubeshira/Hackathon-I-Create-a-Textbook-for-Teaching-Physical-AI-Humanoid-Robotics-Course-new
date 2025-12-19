@@ -9,12 +9,12 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/BismaYousuf',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/physical-ai-and-humanoid-robotics/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
-  organizationName: 'Bisma Yousuf',
+  organizationName: 'Mubeshira Saad',
   projectName: 'physical-ai-and-humanoid-robotics',
 
   onBrokenLinks: 'warn',
@@ -41,7 +41,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
-          editUrl: 'https://github.com/BismaYousuf',
+          editUrl: 'https://github.com/Mubeshira',
         },
         blog: false, // Blog disabled as per textbook structure
         theme: {
@@ -102,7 +102,7 @@ const config: Config = {
         },
         // GitHub link is handled via CSS in your custom theme or can be added here
         {
-          href: 'https://github.com/BismaYousuf',
+          href: 'https://github.com/Mubeshira',
           label: 'GitHub',
           position: 'right',
         },
@@ -128,12 +128,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Bisma GitHub',
-              href: 'https://github.com/BismaYousuf',
+              label: 'Mubeshira GitHub',
+              href: 'https://github.com/Mubeshira',
             },
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/bisma-yousuf-52572b2b4/',
+              href: 'https://www.linkedin.com/in/mubeshira-saad-6461622b8/',
             },
           ],
         },
@@ -142,7 +142,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/BismaYousuf',
+              href: 'https://github.com/Mubeshira',
             },
           ],
         },
